@@ -3,4 +3,4 @@ Eclipse Color Theme
 
 Modified version of Gedit Original Oblivion theme for Eclipse. Darker background, changed color of annotations, comments etc.
 
-![alt tag](http://i.imgur.com/HiJL6fY.jpg)
+![alt tag](http://i.imgur.com/WxBOE16.jpg)
